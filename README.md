@@ -45,5 +45,3 @@ Krishna Kumar
 
 ```
 
-GitHub par clean aur professional lagega.
-```
